@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋I'm Tharushi Vidanapathirana
+I'm  a programmer 
+I'm currently studing BSc Honours Software Engineering degree at NSBM Green University
+Skills : JAVA /C /  HTML / CSS
 <!--
 **TharushiVidanapathirana/TharushiVidanapathirana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
