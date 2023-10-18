@@ -52,6 +52,9 @@
 ### 🏆 Achievements :
 [![An image of @tharushividanapathirana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharushividanapathirana)](https://holopin.io/@tharushividanapathirana)
 (https://www.credly.com/badges/e875bc13-33d7-49f3-ae0c-e019ed0cb930/public_url)
+[![Your Badge](https://example.com/"C:\Users\DELL\Downloads\software-engineering-essentials.png".png)](https://www.credly.com/badges/e875bc13-33d7-49f3-ae0c-e019ed0cb930/public_url)
+
+
 ### :fire: My Stats :
 
 ![Tharushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TharushiVidanapathirana&show_icons=true&theme=dark&include_all_commits=true)
