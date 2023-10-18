@@ -46,6 +46,7 @@
 <img src="https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Aws-011?style=flat-square&logo=amazon"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=FFBB00"/>&nbsp;&nbsp;
+<img src="https://www.credly.com/badges/e875bc13-33d7-49f3-ae0c-e019ed0cb930/public_url"/>&nbsp;&nbsp;
 </div>
  
 ### 🏆 Achievements :
