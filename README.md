@@ -49,7 +49,7 @@
 </div>
  
 ### 🏆 Achievements :
-- [![An image of @tharushividanapathirana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharushividanapathirana)](https://holopin.io/@tharushividanapathirana)
+[![An image of @tharushividanapathirana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharushividanapathirana)](https://holopin.io/@tharushividanapathirana)
 
 ### :fire: My Stats :
 
