@@ -52,3 +52,7 @@
 - [![An image of @tharushividanapathirana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharushividanapathirana)](https://holopin.io/@tharushividanapathirana)
 
 ### :fire: My Stats :
+
+![Janidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TharushiVidanapathirana&show_icons=true&theme=dark&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TharushiVidanapathirana&layout=compact&theme=dark)
